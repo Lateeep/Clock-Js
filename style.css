@@ -1,0 +1,40 @@
+body {
+    background: url(img/BG-1.jpg);
+    
+}
+
+.night {
+    background: url(img/BG-2.jpg);
+    background-size: cover;
+}
+
+#time {
+    justify-content: center;
+    align-items: center;
+    margin : auto;
+    /* border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5); */
+    width: 75vh;
+    margin: auto;
+    margin-top: 30vh;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+#day {
+    font-size: 50px;
+    font-family: arial;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#clock {
+    font-size: 150px;
+    font-family: arial;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin : auto;
+}
