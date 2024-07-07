@@ -6,6 +6,7 @@ body {
 .night {
     background: url(img/BG-2.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 #time {
